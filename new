@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybersecurity Hub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Cybersecurity Hub</h1>
+        <p>Your go-to place for all online security questions</p>
+    </header>
+
+    <section>
+        <h2>Introduction to Cybersecurity</h2>
+        <p>Welcome to the Cybersecurity Hub, your one-stop resource for safely navigating the digital landscape. In an era where our lives are intricately woven into the fabric of technology, the importance of cybersecurity cannot be overstated. As we embrace the conveniences and opportunities of the digital age, it is critical to protect our personal information, financial assets, and the overall integrity of our online experience.</p>
+    </section>
+
+    <section>
+        <h2>Cybersecurity Tips</h2>
+        <p>Stay safe online with these tips:</p>
+        <ul>
+            <li>Use strong, unique passwords for each account</li>
+            <li>Enable two-factor authentication whenever possible</li>
+            <li>Keep your software and operating system up-to-date</li>
+            <li>Be cautious of phishing attempts</li>
+            <li>Use a reliable antivirus program</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Our Mission</h2>
+        <p>At the Cybersecurity Hub, we aim to provide valuable insights, tips, and resources to empower individuals and organizations in understanding and implementing effective cybersecurity measures. Whether you are a cybersecurity enthusiast, a business owner, or someone simply looking to navigate the digital realm with confidence, our goal is to equip you with the knowledge and tools needed to protect yourself in this ever-evolving cyber landscape.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Cybersecurity Hub. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
