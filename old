@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cybersecurity Hub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+        }
+
+        section {
+            margin: 20px;
+            padding: 20px;
+            background-color: #fff;
+        }
+
+        h2 {
+            color: #333;
+        }
+
+        p {
+            line-height: 1.6;
+            color: #555;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 1em;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+        <h1>Cybersecurity Hub</h1>
+        <p>Your go-to resource for online security</p>
+    </header>
+
+    <section>
+        <h2>Introduction to Cybersecurity</h2>
+        <p>Welcome to our cybersecurity hub. Here, you will find information and resources to help you understand and enhance your online security.</p>
+    </section>
+
+    <section>
+        <h2>Cybersecurity Tips</h2>
+        <p>Stay safe online with these tips:
+            <ul>
+                <li>Use strong, unique passwords for each account</li>
+                <li>Enable two-factor authentication whenever possible</li>
+                <li>Keep your software and operating system up-to-date</li>
+                <li>Be cautious of phishing attempts</li>
+                <li>Use a reliable antivirus program</li>
+            </ul>
+        </p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Cybersecurity Hub. All rights reserved.</p>
+    </footer>
+
+</body>
+
+</html>
